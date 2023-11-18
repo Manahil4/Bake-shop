@@ -1,1 +1,1 @@
-# Bake-shop
+# My Bakery is python based assignment project.
